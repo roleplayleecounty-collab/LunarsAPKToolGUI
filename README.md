@@ -26,8 +26,8 @@
 
 ## Features
 
-- Decompile and compile APKs with **Apktool**
-- Decompile **APK / XAPK / APKS / ZIP / APKM** and merge split APKs with **APKEditor**
+- Unpack and repack APKs with **Apktool**
+- Unpack **APK / XAPK / APKS / ZIP / APKM** and merge split APKs with **APKEditor**
 - **Sign** and **Zipalign** APKs
 - **Baksmali / Smali** support and **ADB** tools
 - Framework management and APK info viewer
@@ -68,11 +68,9 @@ Open an [issue](https://github.com/roleplayleecounty-collab/LunarsAPKToolGUI/iss
 
 ## Credits
 
-- **Lunars** for this edition, redesign and branding
-- [AndnixSH](https://github.com/AndnixSH/APKToolGUI) for maintaining APKToolGUI
-- [INF1NUM](https://github.com/INF1NUM/APKToolGUI) original author of APKToolGUI
-- [iBotPeaches](https://ibotpeaches.github.io/Apktool/) Apktool
-- [REAndroid](https://github.com/REAndroid/APKEditor) APKEditor
+**Developer:** Lunars - design, development and branding.
+
+Bundled open-source tools, each under its own license: [Apktool](https://ibotpeaches.github.io/Apktool/), [APKEditor](https://github.com/REAndroid/APKEditor), smali/baksmali and the Android SDK tools.
 
 ## Disclaimer
 
