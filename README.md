@@ -33,6 +33,8 @@
 - Framework management and APK info viewer
 - Drag and drop, right-click context menu, live log output
 - Create unsigned APKs for Core Patch
+- Red-to-blue gradient look with a sidebar layout and snow that falls and piles up in the background
+- Unpacked projects use `lunarsapktool.yml` (renamed back to `apktool.yml` automatically while repacking)
 - Dark and light themes, multi-language, High DPI and long path support
 
 ## Requirements
